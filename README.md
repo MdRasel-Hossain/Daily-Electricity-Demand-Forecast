@@ -1,4 +1,4 @@
-# Smart Electricity Demand Forecasting
+# Daily Electricity Demand Forecasting
 
 This project builds a machine learning pipeline to forecast daily electricity demand using Spanish electricity market data from Kaggle.
 
